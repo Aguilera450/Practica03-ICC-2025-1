@@ -21,8 +21,9 @@ y refuerze sus conocimientos en sentencias de control de flujo.
 (Escribe las instrucciones de ejecución aquí)
 
 ## Comentarios
-1. No se pueden utilizar instrucciones de control. Es importante que comentes tú código.
-2. Se debe usar el objeto String y sus respectivos métodos asociados.
-3. La fecha de entrega se acordará en el laboratorio de clases.
-4. La evaluación se encuentra el la rúbrica del classroom.
-5. Al finalizar se debe compartir el link HTTPS y SSH por el classroom.
+1. Solo puedes usar las estructuras de control: if, else, if else, switch, operador ternario.
+2. Es importante que comentes tú código.
+3. Se debe usar el objeto String y sus respectivos métodos asociados.
+4. La fecha de entrega se acordará en el laboratorio de clases.
+5. La evaluación se encuentra el la rúbrica del classroom.
+6. Al finalizar se debe compartir el link HTTPS y SSH por el classroom.
